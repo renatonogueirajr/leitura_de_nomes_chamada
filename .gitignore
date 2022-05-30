@@ -1,0 +1,6 @@
+# Arquivos sensíveis a LGPD
+Encontros/
+Nomes/
+
+# Autosave Jupyter
+.ipynb_checkpoints/
